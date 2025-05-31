@@ -5,7 +5,7 @@
 
 class script(object):
     START_TXT = """ɪ ᴀᴍ ᴀ ᴘᴏᴡᴇʀꜰᴜʟ ᴀᴜᴛᴏꜰɪʟᴛᴇʀ ʙᴏᴛ. ʏᴏᴜ ᴄᴀɴ ᴜsᴇ ᴍᴇ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ɪ ᴡɪʟʟ ɢɪᴠᴇ ᴍᴏᴠɪᴇs ᴏʀ sᴇʀɪᴇs ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ᴘᴍ !! 😍\n
-🌿 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href="https://t.me/tamil_mini">𝐓ᴀᴍɪʟ 𝐌ɪɴɪ</a>"""
+🌿 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href="https://t.me/moxi_movies">ᴍᴏxɪ ᴍᴏᴠɪᴇs</a>"""
 
     CLONE_START_TXT = """<b><blockquote>ʜᴇʟʟᴏ {}, ᴍʏ ɴᴀᴍᴇ <a href=https://t.me/{}>{}</a></blockquote>
     
@@ -18,7 +18,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
     
 ‣ ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/{}>{}</a>
 ‣ ᴍʏ ʙᴇsᴛ ғʀɪᴇɴᴅ : <a href='tg://settings'>ᴛʜɪs ᴘᴇʀsᴏɴ</a> 
-‣ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/tmv_admin_bot'>Kamalesh</a> 
+‣ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/iitseme2807'>Monish</a> 
 ‣ ʟɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a> 
 ‣ ʟᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>ᴘʏᴛʜᴏɴ 3</a> 
 ‣ ᴅᴀᴛᴀ ʙᴀsᴇ : <a href='https://www.mongodb.com/'>ᴍᴏɴɢᴏ ᴅʙ</a> 
@@ -202,9 +202,9 @@ Nᴀᴍᴇ - {}"""
 
 2️⃣ Check If The Movie You Requested Is Released In OTT.!!
 
-3️⃣ If You Need Help Contact The Support Group <a href=https://t.me/tmv_admin_bot">Admins</a> Will Help.
+3️⃣ If You Need Help Contact The Support Group <a href=https://t.me/moxi_movies_grp">Admins</a> Will Help.
 
-4️⃣ 𝖢𝗈𝗇𝗍𝖺𝖼𝗍 <a href=https://t.me/tmv_admin_bot">𝖠𝖽𝗆𝗂𝗇𝗌</a>, 𝖲𝗈 𝖳𝗁𝖾𝗒 𝖢𝖺𝗇 𝖠𝖽𝖽 𝖥𝗂𝗅𝖾𝗌 𝖳𝗈 𝖬𝗒 𝖣𝖺𝗍𝖺𝖻𝖺𝗌𝖾 !"""
+4️⃣ 𝖢𝗈𝗇𝗍𝖺𝖼𝗍 <a href=https://t.me/iitsme2807">𝖠𝖽𝗆𝗂𝗇𝗌</a>, 𝖲𝗈 𝖳𝗁𝖾𝗒 𝖢𝖺𝗇 𝖠𝖽𝖽 𝖥𝗂𝗅𝖾𝗌 𝖳𝗈 𝖬𝗒 𝖣𝖺𝗍𝖺𝖻𝖺𝗌𝖾 !"""
 
     I_CUDNT = """‼️ FILE NOT FOUND  ‼️
 
@@ -212,9 +212,9 @@ Nᴀᴍᴇ - {}"""
 
 2️⃣ Check If The Movie You Requested Is Released In OTT.!!
 
-3️⃣ If You Need Help Contact The Support Group <a href=https://t.me/tmv_admin_bot">Admins</a> Will Help.
+3️⃣ If You Need Help Contact The Support Group <a href=https://t.me/moxi_movies_grp">Admins</a> Will Help.
 
-4️⃣ 𝖢𝗈𝗇𝗍𝖺𝖼𝗍 <a href=https://t.me/tmv_admin_bot">𝖠𝖽𝗆𝗂𝗇𝗌</a>, 𝖲𝗈 𝖳𝗁𝖾𝗒 𝖢𝖺𝗇 𝖠𝖽𝖽 𝖥𝗂𝗅𝖾𝗌 𝖳𝗈 𝖬𝗒 𝖣𝖺𝗍𝖺𝖻𝖺𝗌𝖾 !"""
+4️⃣ 𝖢𝗈𝗇𝗍𝖺𝖼𝗍 <a href=https://t.me/iitsme2807">𝖠𝖽𝗆𝗂𝗇𝗌</a>, 𝖲𝗈 𝖳𝗁𝖾𝗒 𝖢𝖺𝗇 𝖠𝖽𝖽 𝖥𝗂𝗅𝖾𝗌 𝖳𝗈 𝖬𝗒 𝖣𝖺𝗍𝖺𝖻𝖺𝗌𝖾 !"""
 
     I_CUD_NT = """‼️ FILE NOT FOUND  ‼️
 
@@ -222,9 +222,9 @@ Nᴀᴍᴇ - {}"""
 
 2️⃣ Check If The Movie You Requested Is Released In OTT.!!
 
-3️⃣ If You Need Help Contact The Support Group <a href=https://t.me/tmv_admin_bot">Admins</a> Will Help.
+3️⃣ If You Need Help Contact The Support Group <a href=https://t.me/moxi_movies_grp">Admins</a> Will Help.
 
-4️⃣ 𝖢𝗈𝗇𝗍𝖺𝖼𝗍 <a href=https://t.me/tmv_admin_bot">𝖠𝖽𝗆𝗂𝗇𝗌</a>, 𝖲𝗈 𝖳𝗁𝖾𝗒 𝖢𝖺𝗇 𝖠𝖽𝖽 𝖥𝗂𝗅𝖾𝗌 𝖳𝗈 𝖬𝗒 𝖣𝖺𝗍𝖺𝖻𝖺𝗌𝖾 !"""
+4️⃣ 𝖢𝗈𝗇𝗍𝖺𝖼𝗍 <a href=https://t.me/iitsme2807">𝖠𝖽𝗆𝗂𝗇𝗌</a>, 𝖲𝗈 𝖳𝗁𝖾𝗒 𝖢𝖺𝗇 𝖠𝖽𝖽 𝖥𝗂𝗅𝖾𝗌 𝖳𝗈 𝖬𝗒 𝖣𝖺𝗍𝖺𝖻𝖺𝗌𝖾 !"""
 
     MVE_NT_FND = """ᴍᴏᴠɪᴇ ɴᴏᴛ ꜰᴏᴜɴᴅ ɪɴ ᴅᴀᴛᴀʙᴀꜱᴇ..."""
 
@@ -259,7 +259,7 @@ Nᴀᴍᴇ - {}"""
 
     CAPTION = """<b>{file_name}\n
 ┎┈┈┈┈┈┈┈୨♡୧┈┈┈┈┈┈┈┒
-     Join : 💕 @Tamil_Mini
+     Join : 💕 @moxi_movies
 ┖┈┈┈┈┈┈┈୨♡୧┈┈┈┈┈┈┈┚</b>""" 
 
     IMDB_TEMPLATE_TXT = """
@@ -355,7 +355,7 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
  </b>""" 
 
     PROGRESS_BAR = """\n
-╭━━━━❰ Tamil Mini Renaming... ❱━➣
+╭━━━━❰ Moxi movies Renaming... ❱━➣
 ┣⪼ 🗂️ : {1} | {2}
 ┣⪼ ⏳️ : {0}%
 ┣⪼ 🚀 : {3}/s
@@ -478,7 +478,7 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
  
     RESTART_TXT = """
 <b>Bᴏᴛ Rᴇsᴛᴀʀᴛᴇᴅ !
-
+moxi autofilter movies bot
 📅 Dᴀᴛᴇ : <code>{}</code>
 ⏰ Tɪᴍᴇ : <code>{}</code>
 🌐 Tɪᴍᴇᴢᴏɴᴇ : <code>Asia/Kolkata</code>
